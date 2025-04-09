@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm Prasun Kumar, a passionate and experienced AI/ML Techn
 - Email: cehprasunsinha@gmail.com
 - Phone: +91 8793147065
 - LinkedIn: [Prasun Kumar](https://www.linkedin.com/in/prasun-ai/)
-- YouTube (Aviation Channel): [Aviator Prasun](https://studio.youtube.com/channel/UCPuaygXs56KJJWSB6LUgYBg)
+
 
 ---
 
