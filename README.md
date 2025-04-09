@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Prasun
 
-Welcome to my GitHub! I'm Prasun Kumar, a passionate and experienced AI/ML Technical Lead currently working on intelligent solutions for the **ddi** client. I specialize in building scalable and production-ready AI systems across domains like healthcare, edtech, HRTech, and finance.
+Welcome to my GitHub! I'm Prasun Kumar, a passionate and experienced AI/ML Technical Lead currently working on intelligent solutions for the **ddi**. I specialize in building scalable and production-ready AI systems across domains like healthcare, edtech, HRTech, and finance.
 
 ---
 
